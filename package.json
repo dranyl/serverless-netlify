@@ -1,0 +1,23 @@
+{
+  "name": "serverless-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dranyl/serverless-netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dranyl/serverless-netlify/issues"
+  },
+  "homepage": "https://github.com/dranyl/serverless-netlify#readme",
+  "dependencies": {
+    "netlify-cli": "^8.14.1"
+  }
+}
